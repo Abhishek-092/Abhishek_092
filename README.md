@@ -2,7 +2,7 @@
 <!-- HEADER / HERO SECTION -->
 <!-- ===================== -->
 
-<h1 align="center">👋 Hi, I'm Abhishek Kumar Goswami</h1>
+<h1 align="center"> Hi, I'm Abhishek Kumar Goswami</h1>
 <h3 align="center">B.Tech Student | Web & Mobile Developer | Open Source Enthusiast</h3>
 
 ---
@@ -11,9 +11,8 @@
 
 - 👨‍🎓 B.Tech Student (CSE – AI & ML) at Faculty of Technology, DU  
 - 💻 Interested in **Web Development, Mobile Development & Open Source**
-- 🌱 Currently learning **Full-Stack Development**
 - 📫 Reach me at: **astatyncodes@gmail.com**
-- 🌐 Portfolio: *coming soon*
+<!-- 🌐 Portfolio: *coming soon* -->
 
 ---
 
