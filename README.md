@@ -1,4 +1,7 @@
+<!-- ===================== -->
 <!-- HEADER / HERO SECTION -->
+<!-- ===================== -->
+
 <h1 align="center">👋 Hi, I'm Abhishek Kumar Goswami</h1>
 <h3 align="center">B.Tech Student | Web & Mobile Developer | Open Source Enthusiast</h3>
 
@@ -31,7 +34,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-092&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-092&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -40,7 +43,11 @@
 
 ---
 
-<!-- PROJECTS SECTION (UNCOMMENT WHEN READY)
+<!-- ===================== -->
+<!-- PROJECTS (ENABLE LATER) -->
+<!-- ===================== -->
+
+<!--
 ## 👨‍💻 Projects
 
 - 🌐 **Project One** – Short description
@@ -53,12 +60,9 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/abhishekgoswami92">LinkedIn</a> |
-  <a href="mailto:astatyncodes@gmail.com">Email</a>
-</p>
+  <a href="https://linkedin.com/in/abhishekgoswami92">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
----
-
-## 🤝 Let’s Collaborate!
-
-Open to new ideas, open-source contributions, and learning together 🚀
+  <a href="#">
+    <img src="https
