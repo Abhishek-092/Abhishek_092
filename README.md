@@ -2,7 +2,7 @@
 <!-- HEADER / HERO SECTION -->
 <!-- ===================== -->
 
-<h1 align="center"> Hi, I'm Abhishek Kumar Goswami</h1>
+<h1 align="center"> 👋 Hi, I'm Abhishek Kumar Goswami !</h1>
 <h3 align="center">B.Tech Student | Web & Mobile Developer | Open Source Enthusiast</h3>
 
 ---
